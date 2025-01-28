@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A passionate frontend develoverper from India</h3>
 
-
+<img align="right" alt="coding" width ="400" src ="https://github.com/user-attachments/assets/e6227080-7a60-42e8-a4a3-ac1d4079f26b">
 
 - 🔭 I’m currently working on [MedEase](https://medease-9.onrender.com)
 
