@@ -1,5 +1,5 @@
-<!-- ![logo](https://github.com/Chandan785/Chandan785/blob/main/Githubbanner.jpg) -->
- <img src="Githubbanner.jpg" >
+![logo](https://github.com/Chandan785/Chandan785/blob/main/Screenshot%202025-01-31%20210542.png)
+
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A passionate frontend develoverper from India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandan785" alt="chandan785" /></a> </p>
