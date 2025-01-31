@@ -1,4 +1,4 @@
-![logo](https://github.com/Chandan785/Chandan785/blob/main/Screenshot%202025-01-31%20210542.png)
+![logo](https://github.com/Chandan785/Chandan785/blob/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A passionate frontend develoverper from India</h3>
