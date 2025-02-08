@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **FullStack developer**
 
-- 👨‍💻 All of my projects are available at [https://chandan7859.netlify.app/](https://chandan7859.netlify.app/)
+- 👨‍💻  My Portfolio on  [https://chandan7859.netlify.app/](https://chandan7859.netlify.app/)
 
 - 💬 Ask me about **Html ,CSS ,javascript ,MERN**
 
