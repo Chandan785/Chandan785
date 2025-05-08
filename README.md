@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A passionate frontend develoverper from India</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chandan785&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandan785" alt="chandan785" /></a> </p>
 <img align="right" alt="coding" width ="400" src ="https://github.com/user-attachments/assets/e6227080-7a60-42e8-a4a3-ac1d4079f26b">
 
