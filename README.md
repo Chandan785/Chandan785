@@ -6,7 +6,7 @@
         <img 
           src="https://komarev.com/ghpvc/?username=chandan785&label=Profile%20views&color=0e75b6&style=flat" 
           alt="Profile Views" 
-          width="150" />
+          width="100" />
       </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandan785" alt="chandan785" /></a> </p>
