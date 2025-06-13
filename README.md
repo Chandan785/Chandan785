@@ -1,9 +1,9 @@
 ![logo](https://github.com/Chandan785/Chandan785/blob/main/Banner.png)
 
 # 💫 About Me:
- <img align="right" alt="coding" width="400px" src="https://github.com/user-attachments/assets/cd9f176d-9681-45e1-a2b3-c3f5e86d636b" style="border-radius: 20px;" />
+ <img align="right" alt="coding" width="400px" src="https://github.com/user-attachments/assets/cd9f176d-9681-45e1-a2b3-c3f5e86d636b" style="border-radius: 20;" />
 
- 🔭 I’m currently working on MedEase<br><br>🌱 I’m currently learning FullStack developer<br><br>👨‍💻 My Portfolio https://chandan7859.netlify.app/<br><br>💬 Ask me about Html,HTML5, CSS, javascript, MERN, Next.js, TailwindCss<br><br>📫 How to reach me chandan700785@gmail.com<br><br>📄 Know about my experiences https://docs.google.com/document/d/1MrAoYW4HlovqDdtz8kAJj8I3u3LV0m9cpZUB0Tvz2k0/edit?usp=sharing<br><br><br>
+ 🔭 I’m currently working on MedEase<br><br>🌱 I’m currently learning FullStack developer<br><br>👨‍💻 My Portfolio https://chandan7859.netlify.app/<br><br>💬 Ask me about Html,HTML5, CSS, javascript, MERN, Next.js, TailwindCss<br><br>📫 How to reach me chandan700785@gmail.com<br><br>📄 Know about my experiences  https://docs.google.com/document/d/1p-SNsDwn6RPBcw_7Vj26OHp4sHiVWqyqc30vatujhQ0/edit?tab=t.0<br><br><br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahulstd82&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
